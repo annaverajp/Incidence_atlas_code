@@ -10,7 +10,7 @@ devtools::load_all('H:/KT22SVN/Challenge/pipeline/dslpiper')
 source("H:/KT22SVN/X30/PhD_Study1/Code_visualization/store_diag_names.R")
 
 ##############################################################################
-# The following script creates plots to visualise results from PhD study 1   #
+# The following script creates tables with final results.                    #
 ##############################################################################
 
 conn_inci <- OraGenvej(dbname = "STATUDV", dbuser = "[D222107]")
