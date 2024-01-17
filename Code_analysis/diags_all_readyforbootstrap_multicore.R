@@ -11,10 +11,8 @@ library(doSNOW)
 #devtools::load_all('H:/KT22SVN/Challenge/pipeline/dslpiper') 
 
 ##############################################################################
-# The following script plots age and period specific incidence rates on a    #
-# Lexis surface. Incidence rates are estimating using GAM and estimating a   #
-# tensor product (te). Age standardisation is applied.                       #
-# Comparing observed incidence rates with estimated incidence rates.         #
+# The following script estimates age and period specific incidence rates     #
+# for all diagnoses.                                                         #
 ##############################################################################
 
 ## Adgang til Incidence af alt
